@@ -1,1 +1,1 @@
-[**JavaScript30**](https://seygorin.github.io/JavaScript30)
+[**JavaScript30: gh-pages**](https://seygorin.github.io/JavaScript30)
