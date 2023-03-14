@@ -1,1 +1,1 @@
-**JavaScript30**
+[**JavaScript30**](https://seygorin.github.io/JavaScript30)
